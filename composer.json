@@ -1,14 +1,9 @@
 {
-    "name": "bfg/embedded-call",
+    "name": "woub-chat/embedded-call",
     "description": "API with closing functions",
-    "type": "bfg-app",
+    "type": "app",
     "keywords": ["laravel", "extension", "embedded-call"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "bfg"
-        }
-    ],
     "prefer-stable": true,
     "require": {
         "php": ">=8.0.0"
